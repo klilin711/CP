@@ -1,0 +1,884 @@
+[
+    {
+        "pair_id": 1,
+        "rule_type": "past_tense",
+        "sub_rule_type": "past_tense_marking_omitted_in_obligatory_context (PTMO)",
+        "sentences": [
+            {"text": "Last night the old lady die in her sleep.", "is_grammatical": false},
+            {"text": "Last night the old lady died in her sleep.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 2,
+        "rule_type": "past_tense",
+        "sub_rule_type": "past_tense_marking_omitted_in_obligatory_context (PTMO)",
+        "sentences": [
+            {"text": "Sandy fill a jar with cookies last night.", "is_grammatical": false},
+            {"text": "Sandy filled a jar with cookies last night.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 3,
+        "rule_type": "past_tense",
+        "sub_rule_type": "past_tense_marking_omitted_in_obligatory_context (PTMO)",
+        "sentences": [
+            {"text": "John sing for the church choir yesterday.", "is_grammatical": false},
+            {"text": "John sang for the church choir yesterday.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 4,
+        "rule_type": "past_tense",
+        "sub_rule_type": "irregular_verbs_regularized (PTIR)",
+        "sentences": [
+            {"text": "Janie sleeped with her teddy bear last night.", "is_grammatical": false},
+            {"text": "Janie slept with her teddy bear last night.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 5,
+        "rule_type": "past_tense",
+        "sub_rule_type": "irregular_verbs_regularized (PTIR)",
+        "sentences": [
+          {"text": "Last night the books falled off the shelves.", "is_grammatical": false},
+          {"text": "Last night the books fell off the shelves.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 6,
+        "rule_type": "past_tense",
+        "sub_rule_type": "irregular_verbs_regularized (PTIR)",
+        "sentences": [
+            {"text": "A policeman gived Alan a ticket for speeding yesterday.", "is_grammatical": false},
+            {"text": "A policeman gave Alan a ticket for speeding yesterday.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 7,
+        "rule_type": "past_tense",
+        "sub_rule_type": "regular_ending_on_irregular_stem (PTII)",
+        "sentences": [
+            {"text": "A bat flewed into our attic last night.", "is_grammatical": false},
+            {"text": "A bat flew into our attic last night.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 8,
+        "rule_type": "past_tense",
+        "sub_rule_type": "regular_ending_on_irregular_stem (PTII)",
+        "sentences": [
+            {"text": "Yesterday the teacher sented Allison to the principal.", "is_grammatical": false},
+            {"text": "Yesterday the teacher sent Allison to the principal.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 9,
+        "rule_type": "past_tense",
+        "sub_rule_type": "regular_ending_on_irregular_stem (PTII)",
+        "sentences": [
+            {"text": "Mr. Murphy hidded his money under his mattress.", "is_grammatical": false},
+            {"text": "Mr. Murphy hid his money under his mattress.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 10,
+        "rule_type": "plural",
+        "sub_rule_type": "plural_marking_omitted_in_obligatory_context (PLMO)",
+        "sentences": [
+            {"text": "Three boy played on the swings in the park.", "is_grammatical": false},
+            {"text": "Three boys played on the swings in the park.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 11,
+        "rule_type": "plural",
+        "sub_rule_type": "plural_marking_omitted_in_obligatory_context (PLMO)",
+        "sentences": [
+            {"text": "Many house were destroyed by the flood last week.", "is_grammatical": false},
+            {"text": "Many houses were destroyed by the flood last week.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 12,
+        "rule_type": "plural",
+        "sub_rule_type": "plural_marking_omitted_in_obligatory_context (PLMO)",
+        "sentences": [
+            {"text": "The farmer bought two pig at the market.", "is_grammatical": false},
+            {"text": "The farmer bought two pigs at the market.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 13,
+        "rule_type": "plural",
+        "sub_rule_type": "irregular_plurals_regularized (PLIR)",
+        "sentences": [
+            {"text": "A shoe salesman sees many foots throughout the day.", "is_grammatical": false},
+            {"text": "A shoe salesman sees many feet throughout the day.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 14,
+        "rule_type": "plural",
+        "sub_rule_type": "irregular_plurals_regularized (PLIR)",
+        "sentences": [
+            {"text": "Two mouses ran into the house this morning.", "is_grammatical": false},
+            {"text": "Two mice ran into the house this morning.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 15,
+        "rule_type": "plural",
+        "sub_rule_type": "irregular_plurals_regularized (PLIR)",
+        "sentences": [
+            {"text": "The boy lost two teeths in the fight.", "is_grammatical": false},
+            {"text": "The boy lost two teeth in the fight.", "is_grammatical": true}
+        ]
+    },          
+    {
+        "pair_id": 16,
+        "rule_type": "plural",
+        "sub_rule_type": "mass_nouns_used_with_plural_marker (PLMN)",
+        "sentences": [
+            {"text": "I need to get some informations about the train schedule.", "is_grammatical": false},
+            {"text": "I need to get some information about the train schedule.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 17,
+        "rule_type": "plural",
+        "sub_rule_type": "mass_nouns_used_with_plural_marker (PLMN)",
+        "sentences": [
+            {"text": "Our neighbor bought new furnitures last week.", "is_grammatical": false},
+            {"text": "Our neighbor bought new furniture last week.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 18,
+        "rule_type": "plural",
+        "sub_rule_type": "mass_nouns_used_with_plural_marker (PLMN)",
+        "sentences": [
+            {"text": "Teachers often give useful advices to their students.", "is_grammatical": false},
+            {"text": "Teachers often give useful advice to their students.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 19,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_omitted_in_obligatory_context (TPSO)",
+        "sentences": [
+            {"text": "John's dog always wait for him at the corner.", "is_grammatical": false},
+            {"text": "John's dog always waits for him at the corner.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 20,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_omitted_in_obligatory_context (TPSO)",
+        "sentences": [
+          {"text": "Mrs. Sampson clean her house every Wednesday.", "is_grammatical": false},
+          {"text": "Mrs. Sampson cleans her house every Wednesday.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 21,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_omitted_in_obligatory_context (TPSO)",
+        "sentences": [
+            {"text": "Every Friday our neighbor wash her car.", "is_grammatical": false},
+            {"text": "Every Friday our neighbor washes her car.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 22,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_marked_on_main_verb_after_modals (TPSM)",
+        "sentences": [
+            {"text": "John can plays the piano very well.", "is_grammatical": false},
+            {"text": "John can play the piano very well.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 23,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_marked_on_main_verb_after_modals (TPSM)",
+        "sentences": [
+            {"text": "Our new neighbor should turns his radio down a bit.", "is_grammatical": false},
+            {"text": "Our new neighbor should turn his radio down a bit.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 24,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_marked_on_main_verb_after_modals (TPSM)",
+        "sentences": [
+            {"text": "Mary will goes to Europe next year.", "is_grammatical": false},
+            {"text": "Mary will go to Europe next year.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 25,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_marked_on_main_verb_after_modals (TPSM)",
+        "sentences": [
+            {"text": "The Johnsons may are moving to Chicago this fall.", "is_grammatical": false},
+            {"text": "The Johnsons may be moving to Chicago this fall.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 26,
+        "rule_type": "third_person_singular",
+        "sub_rule_type": "third_person_s_marked_on_main_verb_after_modals (TPSM)",
+        "sentences": [
+            {"text": "Mrs. Newport will is leaving the party early.", "is_grammatical": false},
+            {"text": "Mrs. Newport will be leaving the party early.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 27,
+        "rule_type": "present_progressive",
+        "sub_rule_type": "progressive_ing_omitted_in_obligatory_context (PPMO)",
+        "sentences": [
+            {"text": "The little boy is speak to a policeman.", "is_grammatical": false},
+            {"text": "The little boy is speaking to a policeman.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 28,
+        "rule_type": "present_progressive",
+        "sub_rule_type": "progressive_ing_omitted_in_obligatory_context (PPMO)",
+        "sentences": [
+            {"text": "Janet is wear the dress I gave her.", "is_grammatical": false},
+            {"text": "Janet is wearing the dress I gave her.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 29,
+        "rule_type": "present_progressive",
+        "sub_rule_type": "progressive_ing_omitted_in_obligatory_context (PPMO)",
+        "sentences": [
+            {"text": "The boy has been lie to his father.", "is_grammatical": false},
+            {"text": "The boy has been lying to his father.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 30,
+        "rule_type": "present_progressive",
+        "sub_rule_type": "progressive_auxiliary_omitted (PPAO)",
+        "sentences": [
+            {"text": "Tom working in his office right now.", "is_grammatical": false},
+            {"text": "Tom is working in his office right now.", "is_grammatical": true}
+        ]
+    },          
+    {
+        "pair_id": 31,
+        "rule_type": "present_progressive",
+        "sub_rule_type": "progressive_auxiliary_omitted (PPAO)",
+        "sentences": [
+            {"text": "The children playing in the garden till dark these days.", "is_grammatical": false},
+            {"text": "The children are playing in the garden till dark these days.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 32,
+        "rule_type": "present_progressive",
+        "sub_rule_type": "progressive_auxiliary_omitted (PPAO)",
+        "sentences": [
+            {"text": "Bob trying to fix Jim's car with his new tools.", "is_grammatical": false},
+            {"text": "Bob is trying to fix Jim's car with his new tools.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 33,
+        "rule_type": "determiners",
+        "sub_rule_type": "determiner_omitted_in_obligatory_context (DEOM)",
+        "sentences": [
+            {"text": "Tom is reading book in the bathtub.", "is_grammatical": false},
+            {"text": "Tom is reading a book in the bathtub.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 34,
+        "rule_type": "determiners",
+        "sub_rule_type": "determiner_omitted_in_obligatory_context (DEOM)",
+        "sentences": [
+            {"text": "Mrs. Johnson went to library yesterday.", "is_grammatical": false},
+            {"text": "Mrs. Johnson went to the library yesterday.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 35,
+        "rule_type": "determiners",
+        "sub_rule_type": "determiner_omitted_in_obligatory_context (DEOM)",
+        "sentences": [
+          {"text": "The boy is helping the man build house.", "is_grammatical": false},
+          {"text": "The boy is helping the man build a house.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 36,
+        "rule_type": "determiners",
+        "sub_rule_type": "determiner_used_with_abstract_nouns (DEAB)",
+        "sentences": [
+            {"text": "The beauty is something that lasts forever.", "is_grammatical": false},
+            {"text": "Beauty is something that lasts forever.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 37,
+        "rule_type": "determiners",
+        "sub_rule_type": "determiner_used_with_abstract_nouns (DEAB)",
+        "sentences": [
+            {"text": "After a life like that he will go straight to the hell.", "is_grammatical": false},
+            {"text": "After a life like that he will go straight to hell.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 38,
+        "rule_type": "determiners",
+        "sub_rule_type": "determiner_used_with_abstract_nouns (DEAB)",
+        "sentences": [
+            {"text": "The red is a beautiful color.", "is_grammatical": false},
+            {"text": "Red is a beautiful color.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 39,
+        "rule_type": "determiners",
+        "sub_rule_type": "determiner_used_with_abstract_nouns (DEAB)",
+        "sentences": [
+            {"text": "The men played the basketball in the backyard.", "is_grammatical": false},
+            {"text": "The men played basketball in the backyard.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 40,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "pronoun_omitted_in_obligatory_context (PROM)",
+        "sentences": [
+            {"text": "Peter made out the check but didn't sign.", "is_grammatical": false},
+            {"text": "Peter made out the check but didn't sign it.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 41,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "pronoun_omitted_in_obligatory_context (PROM)",
+        "sentences": [
+            {"text": "Mary looked at the flowers but didn't buy.", "is_grammatical": false},
+            {"text": "Mary looked at the flowers but didn't buy them.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 42,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "pronoun_omitted_in_obligatory_context (PROM)",
+        "sentences": [
+            {"text": "John took a sweater along but didn't put on.", "is_grammatical": false},
+            {"text": "John took a sweater along but didn't put it on.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 43,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "pronoun_omitted_in_obligatory_context (PROM)",
+        "sentences": [
+            {"text": "Mike wrote the letter but didn't send.", "is_grammatical": false},
+            {"text": "Mike wrote the letter but didn't send it.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 44,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "gender_errors (PRGE)",
+        "sentences": [
+            {"text": "The girl cut himself on a piece of glass.", "is_grammatical": false},
+            {"text": "The girl cut herself on a piece of glass.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 45,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "gender_errors (PRGE)",
+        "sentences": [
+            {"text": "Peter did not have any money on her.", "is_grammatical": false},
+            {"text": "Peter did not have any money on him.", "is_grammatical": true}
+        ]
+    },          
+    {
+        "pair_id": 46,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "gender_errors (PRGE)",
+        "sentences": [
+            {"text": "Mary fell but he did not break any bones.", "is_grammatical": false},
+            {"text": "Mary fell but she did not break any bones.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 47,
+        "rule_type": "pronominalization",
+        "sub_rule_type": "gender_errors (PRGE)",
+        "sentences": [
+            {"text": "John knew but she did not tell.", "is_grammatical": false},
+            {"text": "John knew but he did not tell.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 48,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_not_allowed (PMSE)",
+        "sentences": [
+            {"text": "The man climbed the ladder up carefully.", "is_grammatical": false},
+            {"text": "The man climbed up the ladder carefully.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 49,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_not_allowed (PMSE)",
+        "sentences": [
+            {"text": "The drunk slept his hangover off in the guest room.", "is_grammatical": false},
+            {"text": "The drunk slept off his hangover in the guest room.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 50,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_not_allowed (PMSE)",
+        "sentences": [
+          {"text": "The new neighbors carried a long conversation on.", "is_grammatical": false},
+          {"text": "The new neighbors carried on a long conversation.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 51,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_not_allowed (PMSE)",
+        "sentences": [
+            {"text": "This plastic gives a weird smell off.", "is_grammatical": false},
+            {"text": "This plastic gives off a weird smell.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 52,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_allowed_but_particle_moved_too_far (PMTF)",
+        "sentences": [
+            {"text": "Kevin called Nancy for a date up.", "is_grammatical": false},
+            {"text": "Kevin called Nancy up for a date.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 53,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_allowed_but_particle_moved_too_far (PMTF)",
+        "sentences": [
+            {"text": "The man looked the new cars yesterday over.", "is_grammatical": false},
+            {"text": "The man looked the new cars over yesterday.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 54,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_allowed_but_particle_moved_too_far (PMTF)",
+        "sentences": [
+            {"text": "She broke her shoes very carefully in.", "is_grammatical": false},
+            {"text": "She broke her shoes in very carefully.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 55,
+        "rule_type": "particle_movement",
+        "sub_rule_type": "phrasal_verb_separation_allowed_but_particle_moved_too_far (PMTF)",
+        "sentences": [
+            {"text": "Mary took her coat quickly off.", "is_grammatical": false},
+            {"text": "Mary took her coat off quickly.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 56,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "George says much too softly.", "is_grammatical": false},
+            {"text": "George says his prayers much too softly.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 57,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "The little boys laughed the clown.", "is_grammatical": false},
+            {"text": "The little boys laughed at the clown.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 58,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "John said me that his wife was ill.", "is_grammatical": false},
+            {"text": "John told me that his wife was ill.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 59,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "The student was learning in his room until late last night.", "is_grammatical": false},
+            {"text": "The student was studying in his room until late last night.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 60,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "I want you will go to the store now.", "is_grammatical": false},
+            {"text": "I want you to go to the store now.", "is_grammatical": true}
+        ]
+    },          
+    {
+        "pair_id": 61,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "I hope you to go to the store now.", "is_grammatical": false},
+            {"text": "I hope you will go to the store now.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 62,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "The man allows his son watch TV.", "is_grammatical": false},
+            {"text": "The man allows his son to watch TV.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 63,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "The man lets his son to watch TV.", "is_grammatical": false},
+            {"text": "The man lets his son watch TV.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 64,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+            {"text": "The girls want watching TV.", "is_grammatical": false},
+            {"text": "The girls want to watch TV.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 65,
+        "rule_type": "subcategorization",
+        "sub_rule_type": "none",
+        "sentences": [
+          {"text": "The girls enjoy to watch TV.", "is_grammatical": false},
+          {"text": "The girls enjoy watching TV.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 66,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "aux_aux_sequence_errors (YNAA)",
+        "sentences": [
+            {"text": "Will be Harry blamed for the accident?", "is_grammatical": false},
+            {"text": "Will Harry be blamed for the accident?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 67,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "aux_aux_sequence_errors (YNAA)",
+        "sentences": [
+            {"text": "Has been the King served his dinner?", "is_grammatical": false},
+            {"text": "Has the King been served his dinner?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 68,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "aux_aux_sequence_errors (YNAA)",
+        "sentences": [
+            {"text": "Is being the baby held by his mother?", "is_grammatical": false},
+            {"text": "Is the baby being held by his mother?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 69,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "aux_verb_sequence_errors (YNAV)",
+        "sentences": [
+            {"text": "Can ride the little girl a bicycle?", "is_grammatical": false},
+            {"text": "Can the little girl ride a bicycle?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 70,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "aux_verb_sequence_errors (YNAV)",
+        "sentences": [
+            {"text": "Will wear Harry his new shirt to the party?", "is_grammatical": false},
+            {"text": "Will Harry wear his new shirt to the party?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 71,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "aux_verb_sequence_errors (YNAV)",
+        "sentences": [
+            {"text": "Is waiting Sally in the car?", "is_grammatical": false},
+            {"text": "Is Sally waiting in the car?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 72,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "verb_sequence_errors (YNVS)",
+        "sentences": [
+            {"text": "Knows John the answer to that question?", "is_grammatical": false},
+            {"text": "Does John know the answer to that question?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 73,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "verb_sequence_errors (YNVS)",
+        "sentences": [
+            {"text": "Swam Janet in the race yesterday?", "is_grammatical": false},
+            {"text": "Did Janet swim in the race yesterday?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 74,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "verb_sequence_errors (YNVS)",
+        "sentences": [
+            {"text": "Danced Bill at the party last night?", "is_grammatical": false},
+            {"text": "Did Bill dance at the party last night?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 75,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "double_tense_marking (YNDT)",
+        "sentences": [
+            {"text": "Where did Arnie hunted last year?", "is_grammatical": false},
+            {"text": "Where did Arnie hunt last year?", "is_grammatical": true}
+        ]
+    },          
+    {
+        "pair_id": 76,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "double_tense_marking (YNDT)",
+        "sentences": [
+            {"text": "Did Bobbie stayed at home last night?", "is_grammatical": false},
+            {"text": "Did Bobbie stay at home last night?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 77,
+        "rule_type": "yes-no_questions",
+        "sub_rule_type": "double_tense_marking (YNDT)",
+        "sentences": [
+            {"text": "Does Martha uses her microwave oven?", "is_grammatical": false},
+            {"text": "Does Martha use her microwave oven?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 78,
+        "rule_type": "wh_questions",
+        "sub_rule_type": "no_aux_inversion (WHNI)",
+        "sentences": [
+            {"text": "What Martha is bringing to the party?", "is_grammatical": false},
+            {"text": "What is Martha bringing to the party?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 79,
+        "rule_type": "wh_questions",
+        "sub_rule_type": "no_aux_inversion (WHNI)",
+        "sentences": [
+            {"text": "Where Ted is working this summer?", "is_grammatical": false},
+            {"text": "Where is Ted working this summer?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 80,
+        "rule_type": "wh_questions",
+        "sub_rule_type": "no_aux_inversion (WHNI)",
+        "sentences": [
+          {"text": "When Sam will fix his car?", "is_grammatical": false},
+          {"text": "When will Sam fix his car?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 81,
+        "rule_type": "wh_questions",
+        "sub_rule_type": "no_aux (WHNA)",
+        "sentences": [
+            {"text": "Who you meet at the park every day?", "is_grammatical": false},
+            {"text": "Who do you meet at the park every day?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 82,
+        "rule_type": "wh_questions",
+        "sub_rule_type": "no_aux (WHNA)",
+        "sentences": [
+            {"text": "What they sell at the corner store?", "is_grammatical": false},
+            {"text": "What do they sell at the corner store?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 83,
+        "rule_type": "wh_questions",
+        "sub_rule_type": "no_aux (WHNA)",
+        "sentences": [
+            {"text": "When they leave for Mexico?", "is_grammatical": false},
+            {"text": "When do they leave for Mexico?", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 84,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_do_order_violated (WODO)",
+        "sentences": [
+            {"text": "The dinner the man burned.", "is_grammatical": false},
+            {"text": "The man burned the dinner.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 85,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_do_order_violated (WODO)",
+        "sentences": [
+            {"text": "The ball the boy caught.", "is_grammatical": false},
+            {"text": "The boy caught the ball.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 86,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_do_order_violated (WODO)",
+        "sentences": [
+            {"text": "The girl the movie likes.", "is_grammatical": false},
+            {"text": "The girl likes the movie.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 87,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_io_do_order_violated (WOIO)",
+        "sentences": [
+            {"text": "The woman the policeman asked a question.", "is_grammatical": false},
+            {"text": "The woman asked the policeman a question.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 88,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_io_do_order_violated (WOIO)",
+        "sentences": [
+            {"text": "The boy carrots feeds the rabbits.", "is_grammatical": false},
+            {"text": "The boy feeds the rabbits carrots.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 89,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_io_do_order_violated (WOIO)",
+        "sentences": [
+            {"text": "Linda a cake baked John.", "is_grammatical": false},
+            {"text": "Linda baked John a cake.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 90,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_order_violated (WOVS)",
+        "sentences": [
+            {"text": "Bites the dog.", "is_grammatical": false},
+            {"text": "The dog bites.", "is_grammatical": true}
+        ]
+    },          
+    {
+        "pair_id": 91,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_order_violated (WOVS)",
+        "sentences": [
+            {"text": "Drinks the man.", "is_grammatical": false},
+            {"text": "The man drinks.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 92,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_order_violated (WOVS)",
+        "sentences": [
+            {"text": "Paints the woman.", "is_grammatical": false},
+            {"text": "The woman paints.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 93,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_pp_order_violated (WOPP)",
+        "sentences": [
+            {"text": "The students to the movies went.", "is_grammatical": false},
+            {"text": "The students went to the movies.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 94,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_pp_order_violated (WOPP)",
+        "sentences": [
+            {"text": "The children with the dog play.", "is_grammatical": false},
+            {"text": "The children play with the dog.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 95,
+        "rule_type": "word_order",
+        "sub_rule_type": "s_v_pp_order_violated (WOPP)",
+        "sentences": [
+          {"text": "All our friends in the suburbs live.", "is_grammatical": false},
+          {"text": "All our friends live in the suburbs.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 96,
+        "rule_type": "word_order",
+        "sub_rule_type": "adverb_placement (WOAD)",
+        "sentences": [
+            {"text": "The student eats quickly his meals.", "is_grammatical": false},
+            {"text": "The student eats his meals quickly.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 97,
+        "rule_type": "word_order",
+        "sub_rule_type": "adverb_placement (WOAD)",
+        "sentences": [
+            {"text": "Kevin rides usually his bicycle to work.", "is_grammatical": false},
+            {"text": "Kevin usually rides his bicycle to work.", "is_grammatical": true}
+        ]
+    },
+    {
+        "pair_id": 98,
+        "rule_type": "word_order",
+        "sub_rule_type": "adverb_placement (WOAD)",
+        "sentences": [
+            {"text": "My neighbor enjoyed slowly his dessert.", "is_grammatical": false},
+            {"text": "My neighbor slowly enjoyed his dessert.", "is_grammatical": true}
+        ]
+    }       
+]    

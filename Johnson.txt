@@ -1,0 +1,338 @@
+Rule Type: WO
+  WO*  1.  The man the dinner burned.
+  WO   8.  The boys feeds the rabbits carrots.
+  WO* 13.  Drinks the man.
+  WO  40.  The man burned the dinner.
+  WO* 58.  Linda a cake baked John.
+  WO  67.  The woman paints.
+  WO  71.  The girl likes the movie.
+  WO* 76.  Bites the dog.
+  WO* 84.  The ball the boy caught.
+  WO* 93.  The boy carrots feeds the rabbits.
+  WO*117.  The woman the policeman asked a question.
+  WO*123.  The girl the movie likes.
+
+  WO   1.  The woman asked the policeman a question.
+  WO*  4.  Linda John baked a cake.
+  WO  11.  The dog bites.
+  WO  29.  The boy caught the ball.
+  WO* 43.  The dinner the man burned.
+  WO  58.  The man drinks.
+  WO  60.  Linda baked John a cake.
+  WO* 94.  Paints the woman.
+  WO* 96.  The boy the ball caught.
+  WO*137.  The woman a question asked the policeman.
+  WO*140.  The boy the rabbits feeds carrots.
+  WO*141.  The movie the girl likes.
+
+
+Rule Type: PL
+  PL*  2.  Many house were destroyed by the flood last week.
+  PL  11.  Three boys played on the swings in the park.
+  PL* 23.  Mrs. Smith brought corns to the company picnic.
+  PL  25.  Many men came to the club after dinner.
+  PL  42.  Tammy bought rice at the grocery store.
+  PL* 44.  Two mouses ran into the house this morning.
+  PL  88.  Todd has many coats in his closet.
+  PL* 94.  A shoe salesman sees many foots throughout the day.
+  PL*101.  Sheeps graze in the field near our house.
+  PL 110.  The boy lost two teeth in the fight.
+  PL*128.  The farmer bought two pig at the market.
+  PL 130.  The girl's swimsuit is full of sand.
+
+  PL  15.  Many houses were destroyed by the flood last week.
+  PL  21.  The farmer bought two pigs at the market.
+  PL* 31.  The boy lost two teeths in the fight.
+  PL* 38.  The girl's swimsuit is full of sands.
+  PL* 53.  Todd has many coat in his closet.
+  PL  54.  Two mice ran into the house this morning.
+  PL  55.  Mrs. Smith brought corn to the company picnic.
+  PL* 83.  Three boy played on the swings in the park.
+  PL 104.  A shoe salesman sees many feet throughout the day.
+  PL*106.  Tammy bought rices at the grocery store.
+  PL*118.  Many mens came to the club after dinner.
+  PL 129.  Sheep graze in the field near our house.
+
+
+Rule Type: PP
+  PP*  3.  The little boy is speak to a policeman.
+  PP* 19.  Janet is wear the dress I gave her.
+  PP  96.  The dog is barking at the mailman.
+  PP 122.  The woman is holding her newborn baby.
+  PP*  5.  The woman is hold her newborn baby.
+
+  PP   9.  Janet is wearing the dress I gave her.
+  PP  98.  The little boy is speaking to a policeman.
+  PP*116.  The dog is bark at the mailman.
+
+
+Rule Type: PT
+  PT   4.  Janie slept with her teddy bear last night.
+  PT  10.  A bat flew into our attic last night.
+  PT  12.  John sang for the church choir yesterday.
+  PT* 22.  Last night the old woman satted on her porch.
+  PT* 59.  Last night the books falled off the shelves.
+  PT* 68.  Yesterday the man make a chocolate cake.
+  PT* 79.  Yesterday the baby throwed a cat into the bathtub.
+  PT  87.  Sandy filled the jar with cookies last night.
+  PT 100.  Mr. Murphy hid his money under his mattress yesterday.
+  PT*112.  Yesterday the teacher sented Tommy to the principal.
+  PT*135.  Last night the old lady die in her sleep.
+  PT 137.  A policeman gave Tom a ticket for speeding yesterday.
+
+  PT* 17.  Mr. Murphy hidded his money under his mattress yesterday.
+  PT* 27.  Sandy fill the jar with cookies last night.
+  PT* 33.  Janie sleeped with her teddy bear last night.
+  PT  50.  Last night the old lady died in her sleep.
+  PT* 56.  A bat flewed into our attic last night.
+  PT  57.  Yesterday the man made a chocolate cake.
+  PT  65.  Yesterday the baby threw a cat into the bathtub.
+  PT  79.  Yesterday the teacher sent Tommy to the principal.
+  PT  91.  Last night the old woman sat on her porch.
+  PT* 93.  A policemen gived Tom a ticket for speeding yesterday.
+  PT 112.  Last night the books fell off the shelves.
+  PT 125.  John sing for the church choir yesterday.
+
+
+Rule Type: DET
+ DET   5.  Mary opens the windows in her room every night.
+ DET* 62.  Larry went the home after the party.
+ DET  63.  Tom is reading a book in the bathtub.
+ DET  90.  The boy is helping the man build a house.
+ DET*121.  Girl played with her friend outside.
+ DET 141.  The men played basketball in the backyard.
+ DET  22.  Mrs. Johnson went to the library yesterday.
+
+ DEL* 16.  Mary opens a windows in her room every night.
+ DET  46.  Larry went home after the party.
+ DET* 82.  The boy is helping the man build house.
+ DET*102.  The men played the basketball in the backyard.
+ DET 103.  The girl played with her friend outside.
+ DET*130.  Tom is reading book in the bathtub.
+ DET 136.  The boys are going to the zoo this Saturday.
+
+
+Rule Type: AUX
+ AUX*  6.  Is waiting Sally in the car?
+ AUX*  9.  Is being the baby held by his mother?
+ AUX  16.  Mrs. Newport will be leaving the party early.
+ AUX* 27.  Can the boy can drive a tractor?
+ AUX* 31.  Danced Bill at the party last night?
+ AUX  33.  John should have given a present to Cindy.
+ AUX* 37.  Fred will be get a raise next month.
+ AUX* 41.  Leonard should has written a letter to his mother.
+ AUX  46.  The cat is hiding underneath the couch.
+ AUX* 47.  Arnold may have be sleeping when we called.
+ AUX  50.  Does Jane learn math from Mr. Thompson?
+ AUX  55.  Has the king been served his dinner?
+ AUX  57.  Will Larry feed the cat when we're gone?
+ AUX  61.  Can the little girl ride a bicycle?
+ AUX* 73.  Will wear Harry his new shirt to the party?
+ AUX  75.  The kids would have eaten by now.
+ AUX  77.  Can George hear us from this room?
+ AUX 98.  Will Harry be blamed for the accident?
+ AUX 103.  Did Janet swim in the race yesterday?
+ AUX*106.  The baby bird has fall from the oak tree.
+ AUX 107.  Sue normally would have been saying her prayers by now.
+ AUX*113.  Knows John the answer to that question?
+ AUX*114.  The boy has been lie to his father.
+ AUX*118.  Should have Timothy gone to the party?
+ AUX 120.  George has been drying the dishes for hours.
+ AUX 125.  Have you seen Jane's new baby?
+ AUX*134.  Will the little girl can hurt the kitten?
+ AUX*136.  The Johnsons may is moving to Chicago this fall.
+
+ AUX* 10.  The cat is hide underneath the couch.
+ AUX* 13.  Mrs. Newport will is leaving the party early.
+ AUX* 14.  Will Larry will feed the cat when we're gone?
+ AUX* 18.  Learns Jane math from Mr. Thompson.
+ AUX* 23.  John should have give a present to Cindy.
+ AUX* 35.  Will be Harry blamed for the accident?
+ AUX  37.  Is Sally waiting in the car?
+ AUX  48.  Arnold may have been sleeping when we called.
+ AUX  51.  Is the baby being held by his mother?
+ AUX* 61.  The kids would has eaten by now.
+ AUX* 67.  Sue normally would have been say her prayers by now.
+ AUX  68.  Does John know the answer to that question?
+ AUX* 71.  Have seen you Jane's new baby?
+ AUX  72.  Can the boy drive a tractor?
+ AUX* 80.  Can George will hear us from this room?
+ AUX  84.  Did Bill dance at the party last night?
+ AUX  86.  Fred will be getting a raise next month.
+ AUX  90.  Will Harry wear his new shirt to the party?
+ AUX* 95.  Has been the king served his dinner?
+ AUX 101.  The Johnsons may be moving to Chicago this fall.
+ AUX*109.  George has be drying the dishes for hours.
+ AUX 113.  Should Timothy have gone to the party?
+ AUX*115.  Swam Janet in the race yesterday.
+ AUX 117.  Leonard should have written a letter to his mother.
+ AUX*119.  Can ride the little girl a bicycle.
+ AUX 120.  Will the little girl hurt the kitten?
+ AUX 128.  The baby bird has fallen from the oak tree.
+ AUX 139.  The boy has been lieing to his father.
+
+
+Rule Type: 3PS
+ 3PS   7.  John's dog always waits for him at the corner.
+ 3PS* 65.  Every day Terri Talk with her mom on the phone.
+
+ 3PS* 39.  Every Friday our neighbor wash her car.
+ 3PS* 74.  John's dog always wait for him at the corner.
+ 3PS 108.  Mrs. Sampson cleans her house every Wednesday.
+ 3PS 122.  Every day Terri talks with her mom on the phone.
+
+ TPS  74.  Every Friday our neighbor washes her car.
+ TPS*108.  Mrs. Sampson clean her house every Wednesday.
+
+Rule Type: PRO
+ PRO* 14.  We are teaching herself the Spanish alphabet.
+ PRO  32.  They took their children to the theater.
+ PRO  36.  He is fixing the tire on Jamie's bicycle.
+ PRO  45.  Susan is making some cookies for us.
+ PRO* 49.  Tom drove himselve's sister to the concert.
+ PRO  56.  We ate the whole pizza by ourselves.
+ PRO*97.  A snake bit she one the leg.
+ PRO*104.  Carol is cooking dinner for hers family.
+ PRO*111.  The girl cut himself on a piece of glass.
+ PRO*126.  Them worked on the project all night.
+ PRO 132.  Linda poured herself a glass of lemonade.
+ PRO 140.  The girl raced her friend to the fence.
+ PRO* 69.  Linda poured themselves a glass of lemonade.
+
+ PRO   6.  Carol is cooking dinner for her family.
+ PRO  19.  A snake bit her on the leg.
+ PRO  36.  The girl cut herself on a piece of glass.
+ PRO  45.  They worked on the project all night.
+ PRO* 52.  The girl raced herselves friend to the fence.
+ PRO* 89.  Susan is making some cookies for we.
+ PRO  97.  Tom drove his sister to the concert.
+ PRO  99.  We are teaching ourselves the Spanish alphabet.
+ PRO*133.  Him is fixing the tire on Jamie's bicycle.
+ PRO*134.  They took theirs children to the theater.
+ PRO*138.  We ate the whole pizza by themselves.
+
+
+Rule Type: SUB
+ SUB* 15.  I want you will go to the store now.
+ SUB* 17.  The boy put the book.
+ SUB  20.  The girls enjoy watching TV.
+ SUB  28.  The policeman was talking to a woman.
+ SUB  48.  I hope you will go to the store now.
+ SUB* 69.  The little boys laughed the clown.
+ SUB  85.  The farmers were hoping for rain.
+ SUB  92.  George says his prayers much too softly.
+ SUB*105.  The man allows his son watch TV.
+ SUB 124.  The man lets his son watch TV.
+ SUB*133.  The girls want watching TV.
+ SUB*138.  He came my house at six o'clock.
+
+ SUG   3.  The boy put the book in the kitchen.
+ SUG*  8.  The man lets his son to watch TV.
+ SUB  20.  I want you go to to the store now.
+ SUB  32.  The girls want to watch TV.
+ SUB* 44.  The girls enjoy to watch TV.
+ SUB* 47.  George says much too softly.
+ SUB* 63.  The farmers were hoping rain.
+ SUB  73.  He came to my house at six o'clock.
+ SUB*100.  I hope you to go to the store now.
+ SUB 107.  The little boys laughed at the clown.
+ SUB 114.  The man allows his son to watch TV.
+ SUB*121.  The policeman was talking a woman.
+ SUB*131.  The boy put the book that was in the kitchen.
+
+
+Rule Type: IC
+ IC  18.  Right this minute the old ship is sinking in the harbor.
+ IC* 26.  The girl cooks eggs for her family last night.
+ IC  30.  The boy lives with his father every summer.
+ IC  51.  Yesterday the hunter shot a deer.
+ IC* 52.  Right now Judy shops for a new party dress.
+ IC* 72.  Every day Paul is meeting George at the club.
+ IC  80.  At this moment Mr. Thompson watched a baseball game.
+ IC  82.  Right now the woman is dreaming about her childhood.
+ IC*102.  Yesterday the man is standing in the rain for his bus.
+ IC 127.  The little boy counted all his pennies last night.
+
+ IC* 24.  Right this minute the old ship sinks in the harbor.
+ IC  25.  Yesterday the man stood in the rain for his bus.
+ IC* 40.  Yesterday the hunter shoots a deer.
+ IC  41.  Every day Paul meets George at the club.
+ IC* 49.  Right now the woman drempt about her childhood.
+ IC  64.  At this moment Mr. Thompson is watching a baseball game.
+ IC* 75.  The boy is living with his father every summer.
+ IC 110.  The girl cooked eggs for her family last night.
+ IC*123.  The little boy is counting all his pennies last night.
+ IC 124.  Right now Judy is shopping for a new party dress.
+
+
+Rule Type: WHSUB
+ WHSUB 29.  Where did she put the book?
+ WHSUB*53.  Why did the company send?
+ WHSUB*81.  Who did the teacher smile?
+ WHSUB119.  Why did the man go?
+
+ WHSUG  2.  When did the teacher smile?
+ WHSUB 30.  What did the company send?
+ WHSUB*62.  What did the man go?
+ WHSUB*81.  Why did she put the book?
+
+
+Rule Type: TENSE
+ TENSE*34.  Where did Arnie hunted last year?
+
+
+Rule Type: WH
+ WH* 35.  What the boy will read next?
+ WH  39.  Where do you work during the summer?
+ WH* 43.  Who you meet at the park every day?
+ WH  64.  What is Martha bringing to the party?
+ WH  66.  What does Janet pay her gardener?
+ WH  78.  When will Sam fix his car?
+ WH  86.  Does Martha use her microwave oven?
+ WH  95.  What do they sell at the corner store?
+ WH*116.  Where Ted is working this summer?
+ WH*129.  When they leave for Mexico?
+ WH*131.  Did Bobby stayed at home last night.
+
+ WH*  7.  Where you work during the summer?
+ WH* 12.  When Sam will fix his car?
+ WH* 26.  What does Janet pays her gardener?
+ WH  59.  Who do you meet at the park every day?
+ WH  70.  What will the boy read next?
+ WH  76.  Where did Arnie hunt last year?
+ WH* 78.  Does Martha uses her microwave oven?
+ WH  85.  When do they leave for Mexico?
+ WH* 88.  What they sell at the corner store?
+ WH*105.  What Martha is bringing to the party?
+ WH 127.  Did Bobby stay at home last night?
+ WH 132.  Where is Ted working this summer?
+
+
+Rule Type: PM
+ PM* 21.  Tom called the hall down to his mother.
+ PM  24.  She broke in her shoes very carefully.
+ PM  38.  The horse jumped over the fence yesterday.
+ PM  54.  The glass broke into three pieces when it fell.
+ PM  60.  Kevin called up Amy for a date.
+ PM* 70.  She broke her shoes very carefully in.
+ PM  91.  The man climbed up the ladder carefully.
+ PM* 99.  They stood the line in very patiently.
+ PM*109.  Kevin called Amy for a date up.
+ PM 115.  She broke her shoes in very carefully.
+ PM*139.  The man looked the new cars at yesterday.
+
+ PM  28.  They stood in the line very patiently.
+ PM* 34.  The man climbed the ladder up carefully.
+ PM* 42.  The horse jumped the fence over yesterday.
+ PM  66.  Tom called down the hall to his mother.
+ PM  77.  The man looked the new cars over yesterday.
+ PM  87.  Kevin called Amy up for a date.
+ PM  92.  She broke in her shoes very carefully.
+ PM 111.  The man looked at the new cars yesterday.
+ PM*126.  The glass broke three pieces into when it fell.
+ PM*135.  The man looked the new cars yesterday over.
+
+
+Rule Type: PET
+ PET* 83.  Mrs. Johnson went to library yesterday.
+ PET* 89.  A boys are going to the zoo this Saturday.

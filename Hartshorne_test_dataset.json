@@ -1,0 +1,287 @@
+[
+    {
+        "example_id": "9",
+        "question_text": "Which of the following sentences sounds most natural?",
+        "sentences": [
+            {"text": "I shan't be coming to the party after all.", "is_grammatical": "dialect"},
+            {"text": "I won't be coming to the party after all.", "is_grammatical": "true"}
+        ]
+    },
+    {
+        "example_id": "10",
+        "question_text": "Which of the following sentences sounds most natural?",
+        "sentences": [
+            {"sub_example_id": "10a", "text": "What age are you?", "is_grammatical": "dialect"},
+            {"sub_example_id": "10b", "text": "How age are you?", "is_grammatical": "false"},
+            {"sub_example_id": "10c", "text": "How old are you?", "is_grammatical": "dialect"},
+            {"sub_example_id": "10d", "text": "What old are you?", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "11",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "11a", "text": "I will have studied for 6 hours by dinner time.", "is_grammatical": "dialect"},
+            {"sub_example_id": "11b", "text": "I will have been studying for 6 hours by dinner time.", "is_grammatical": "dialect"},
+            {"sub_example_id": "11c", "text": "I will had studied for 6 hours by dinner time.", "is_grammatical": "false"},
+            {"sub_example_id": "11d", "text": "I will be studying for 6 hours by dinner time.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "12",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "12a", "text": "The people is angry.", "is_grammatical": "false"},
+            {"sub_example_id": "12b", "text": "The people be angry.", "is_grammatical": "false"},
+            {"sub_example_id": "12c", "text": "The people were angry.", "is_grammatical": "dialect"},
+            {"sub_example_id": "12d", "text": "The people are angry.", "is_grammatical": "true"}
+        ]
+    },
+    {
+        "example_id": "13",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "13a", "text": "The man that arrived yesterday needs a wakeup call at nine.", "is_grammatical": "dialect"},
+            {"sub_example_id": "13b", "text": "The man whom arrived yesterday needs a wakeup call at nine.", "is_grammatical": "dialect"},
+            {"sub_example_id": "13c", "text": "The man which arrived yesterday needs a wakeup call at nine.", "is_grammatical": "false"},
+            {"sub_example_id": "13d", "text": "The man where arrived yesterday needs a wakeup call at nine.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "14",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "14a", "text": "We won the game, so we did!", "is_grammatical": "dialect"},
+            {"sub_example_id": "14b", "text": "We won the game, yes we did!", "is_grammatical": "dialect"},
+            {"sub_example_id": "14c", "text": "We won the game, no we did!", "is_grammatical": "false"},
+            {"sub_example_id": "14d", "text": "We won the game, although we did!", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "15",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "15a", "text": "I studies medicine.", "is_grammatical": "false"},
+            {"sub_example_id": "15b", "text": "I reads medicine.", "is_grammatical": "false"},
+            {"sub_example_id": "15c", "text": "I study medicine.", "is_grammatical": "true"},
+            {"sub_example_id": "15d", "text": "I read medicine.", "is_grammatical": "dialect"}
+        ]
+    },
+    {
+        "example_id": "16",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "16a", "text": "He broke his leg, so he is in the hospital.", "is_grammatical": "dialect"},
+            {"sub_example_id": "16b", "text": "He broke his leg, so he is in hospital.", "is_grammatical": "dialect"},
+            {"sub_example_id": "16c", "text": "He broke his leg, so he is on hospital.", "is_grammatical": "false"},
+            {"sub_example_id": "16d", "text": "He broke his leg, so he is on the hospital.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "17",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "17a", "text": "I told Sally I was worried about the exam. She said, 'Don't worry. He'll be right!'", "is_grammatical": "false"},
+            {"sub_example_id": "17b", "text": "I told Sally I was worried about the exam. She said, 'Don't worry. She'll be right!'", "is_grammatical": "dialect"},
+            {"sub_example_id": "17c", "text": "I told Sally I was worried about the exam. She said, 'Don't worry. It be okay!'", "is_grammatical": "false"},
+            {"sub_example_id": "17d", "text": "I told Sally I was worried about the exam. She said, 'Don't worry. It'll be okay!'", "is_grammatical": "true"}
+        ]
+    },
+    {
+        "example_id": "18",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "18a", "text": "If he knew, he would have helped her.", "is_grammatical": "dialect"},
+            {"sub_example_id": "18b", "text": "If he had been knowing, he would have helped her.", "is_grammatical": "false"},
+            {"sub_example_id": "18c", "text": "If he had known, he would have helped her.", "is_grammatical": "true"},
+            {"sub_example_id": "18d", "text": "If he have known, he would have helped her.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "19",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "19a", "text": "My brother and sister are playing tennis at 11pm later tonight.", "is_grammatical": "true"},
+            {"sub_example_id": "19b", "text": "My brother and sister will playing tennis at 11pm later tonight.", "is_grammatical": "false"},
+            {"sub_example_id": "19c", "text": "My brother and sister were playing tennis at 11pm later tonight.", "is_grammatical": "false"},
+            {"sub_example_id": "19d", "text": "My brother and sister was playing tennis at 11pm later tonight.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "20",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "20a", "text": "I said the story.", "is_grammatical": "false"},
+            {"sub_example_id": "20b", "text": "I replied the story.", "is_grammatical": "false"},
+            {"sub_example_id": "20c", "text": "I declared the story.", "is_grammatical": "false"},
+            {"sub_example_id": "20d", "text": "I told the story.", "is_grammatical": "true"}
+        ]
+    },
+    {
+        "example_id": "21",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "21a", "text": "My grandmother really loved John. She left all her money to he.", "is_grammatical": "false"},
+            {"sub_example_id": "21b", "text": "My grandmother really loved John. She left all her money to him.", "is_grammatical": "true"},
+            {"sub_example_id": "21c", "text": "My grandmother really loved John. She left all her money to her.", "is_grammatical": "false"},
+            {"sub_example_id": "21d", "text": "My grandmother really loved John. She left all her money to it.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "22",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "22a", "text": "They may be traveling, but I'm not sure.", "is_grammatical": "true"},
+            {"sub_example_id": "22b", "text": "They can be traveling, but I'm not sure.", "is_grammatical": "false"},
+            {"sub_example_id": "22c", "text": "They would be traveling, but I'm not sure.", "is_grammatical": "false"},
+            {"sub_example_id": "22d", "text": "They have be traveling, but I'm not sure.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "23",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "23a", "text": "John gave the library the book.", "is_grammatical": "dialect"},
+            {"sub_example_id": "23b", "text": "John donated the library the book.", "is_grammatical": "dialect"},
+            {"sub_example_id": "23c", "text": "John distributed the library the book.", "is_grammatical": "false"},
+            {"sub_example_id": "23d", "text": "John contributed the library the book.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "24",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "24a", "text": "Sally laughed Mary.", "is_grammatical": "false"},
+            {"sub_example_id": "24b", "text": "Sally happied Mary.", "is_grammatical": "false"},
+            {"sub_example_id": "24c", "text": "Sally giggled Mary.", "is_grammatical": "false"},
+            {"sub_example_id": "24d", "text": "Sally tickled Mary.", "is_grammatical": "true"}
+        ]
+    },
+    {
+        "example_id": "25",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "25a", "text": "A President Obama lives in the White House.", "is_grammatical": "false"},
+            {"sub_example_id": "25b", "text": "The President Obama lives in the White House.", "is_grammatical": "false"},
+            {"sub_example_id": "25c", "text": "These President Obama lives in the White House.", "is_grammatical": "false"},
+            {"sub_example_id": "25d", "text": "President Obama lives in the White House.", "is_grammatical": "true"}
+        ]
+    },
+    {
+        "example_id": "26",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "26a", "text": "The sun is in the sky.", "is_grammatical": "true"},
+            {"sub_example_id": "26b", "text": "The sun is in a sky.", "is_grammatical": "false"},
+            {"sub_example_id": "26c", "text": "The sun is in an sky.", "is_grammatical": "false"},
+            {"sub_example_id": "26d", "text": "The sun is in sky.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "27",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "27a", "text": "I believe in these justice.", "is_grammatical": "false"},
+            {"sub_example_id": "27b", "text": "I believe in justice.", "is_grammatical": "true"},
+            {"sub_example_id": "27c", "text": "I believe in a justice.", "is_grammatical": "false"},
+            {"sub_example_id": "27d", "text": "I believe in the justice.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "28",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "28a", "text": "Sorry to disturb you with the weekend.", "is_grammatical": "false"},
+            {"sub_example_id": "28b", "text": "Sorry to disturb you under the weekend.", "is_grammatical": "false"},
+            {"sub_example_id": "28c", "text": "Sorry to disturb you at the weekend.", "is_grammatical": "dialect"},
+            {"sub_example_id": "28d", "text": "Sorry to disturb you on the weekend.", "is_grammatical": "dialect"}
+        ]
+    },
+    {
+        "example_id": "29",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "29a", "text": "I would like go home.", "is_grammatical": "false"},
+            {"sub_example_id": "29b", "text": "I would prefer go home.", "is_grammatical": "false"},
+            {"sub_example_id": "29c", "text": "I would rather go home.", "is_grammatical": "true"},
+            {"sub_example_id": "29d", "text": "I would want go home.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "30",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "30a", "text": "Bill poured the cup with wine.", "is_grammatical": "false"},
+            {"sub_example_id": "30b", "text": "Bill filled the cup with wine.", "is_grammatical": "true"},
+            {"sub_example_id": "30c", "text": "Bill drained the cup with wine.", "is_grammatical": "false"},
+            {"sub_example_id": "30d", "text": "Bill dripped the cup with wine.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "31",
+        "question_text": "Fill in the blank (Choose all that apply).",
+        "sentences": [
+            {"sub_example_id": "31a", "text": "I play at the soccer team.", "is_grammatical": "false"},
+            {"sub_example_id": "31b", "text": "I play in the soccer team.", "is_grammatical": "dialect"},
+            {"sub_example_id": "31c", "text": "I play on the soccer team.", "is_grammatical": "dialect"},
+            {"sub_example_id": "31d", "text": "I play inside the soccer team.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "32",
+        "question_text": "Choose all that are grammatical.",
+        "sentences": [
+            {"sub_example_id": "32a", "text": "John agreed the contract.", "is_grammatical": "dialect"},
+            {"sub_example_id": "32b", "text": "Sally appealed against the decision.", "is_grammatical": "dialect"},
+            {"sub_example_id": "32c", "text": "I'll write my brother.", "is_grammatical": "dialect"},
+            {"sub_example_id": "32d", "text": "I'm just after telling you.", "is_grammatical": "dialect"},
+            {"sub_example_id": "32e", "text": "The government was unable to agree on the budget.", "is_grammatical": "true"},
+            {"sub_example_id": "32f", "text": "I after ate dinner.", "is_grammatical": "false"},
+            {"sub_example_id": "32g", "text": "Who did Sue ask why Sam was waiting?", "is_grammatical": "dialect"},
+            {"sub_example_id": "32h", "text": "He thought he could win the game.", "is_grammatical": "true"}
+        ]
+    },
+    {
+        "example_id": "33",
+        "question_text": "Choose all that are grammatical.",
+        "sentences": [
+            {"sub_example_id": "33a", "text": "The committee were divided on the question.", "is_grammatical": "dialect"},
+            {"sub_example_id": "33b", "text": "She resigned Thursday.", "is_grammatical": "dialect"},
+            {"sub_example_id": "33c", "text": "He said that she is taking a trip.", "is_grammatical": "dialect"},
+            {"sub_example_id": "33d", "text": "He said that she was taking a trip.", "is_grammatical": "true"},
+            {"sub_example_id": "33e", "text": "Sally swam two miles. Wore a pair of 100 goggles.", "is_grammatical": "false"},
+            {"sub_example_id": "33f", "text": "I'm going to Wisconsin next week.", "is_grammatical": "true"},
+            {"sub_example_id": "33g", "text": "He encouraged her to travels around the world.", "is_grammatical": "false"},
+            {"sub_example_id": "33h", "text": "I'm wanting dessert.", "is_grammatical": "dialect"}
+        ]
+    },
+    {
+        "example_id": "34",
+        "question_text": "Choose all that are grammatical.",
+        "sentences": [
+            {"sub_example_id": "34a", "text": "I worked for five years.", "is_grammatical": "true"},
+            {"sub_example_id": "34b", "text": "Who did Bill ask why Jane was talking to?", "is_grammatical": "false"},
+            {"sub_example_id": "34c", "text": "Who whom kissed?", "is_grammatical": "false"},
+            {"sub_example_id": "34d", "text": "John went to the store. Bought ice cream.", "is_grammatical": "false"},
+            {"sub_example_id": "34e", "text": "I'm finished my homework.", "is_grammatical": "dialect"},
+            {"sub_example_id": "34f", "text": "I'm finished with my homework.", "is_grammatical": "true"},
+            {"sub_example_id": "34g", "text": "We did go the beach.", "is_grammatical": "dialect"},
+            {"sub_example_id": "34h", "text": "He be working Tuesdays.", "is_grammatical": "false"}
+        ]
+    },
+    {
+        "example_id": "35",
+        "question_text": "Choose all that are grammatical.",
+        "sentences": [
+            {"sub_example_id": "35a", "text": "Yesterday, John wanted to won the race.", "is_grammatical": "false"},
+            {"sub_example_id": "35b", "text": "Up the audience's expectations, the critics built.", "is_grammatical": "false"},
+            {"sub_example_id": "35c", "text": "I'm done dinner.", "is_grammatical": "dialect"},
+            {"sub_example_id": "35d", "text": "He was pulled over by the police for driving 120 miles per hour.", "is_grammatical": "true"},
+            {"sub_example_id": "35e", "text": "He stay working.", "is_grammatical": "false"},
+            {"sub_example_id": "35f", "text": "The dog the man owns barked.", "is_grammatical": "dialect"},
+            {"sub_example_id": "35g", "text": "I eats dinner.", "is_grammatical": "false"},
+            {"sub_example_id": "35h", "text": "Where is the pen that I gave it to you yesterday?", "is_grammatical": "false"}
+        ]
+    }
+  ]
+  

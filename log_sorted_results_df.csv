@@ -1,0 +1,123 @@
+Example ID,Sub Example ID,Question Text,Sentence Text,Is Grammatical,Perplexity,Log_Perplexity
+10,10c,Which of the following sentences sounds most natural?,How old are you?,dialect,11.7464017868042,2.5452490189752384
+10,10a,Which of the following sentences sounds most natural?,What age are you?,dialect,24.14369773864746,3.2246072782110904
+10,10b,Which of the following sentences sounds most natural?,How age are you?,false,25.53927993774414,3.2786258973281717
+10,10d,Which of the following sentences sounds most natural?,What old are you?,false,26.036012649536133,3.2971697791155
+11,11b,Fill in the blank (Choose all that apply).,I will have been studying for 6 hours by dinner time.,dialect,85.57305145263672,4.460988582990864
+11,11d,Fill in the blank (Choose all that apply).,I will be studying for 6 hours by dinner time.,false,110.12901306152344,4.71069180622159
+11,11a,Fill in the blank (Choose all that apply).,I will have studied for 6 hours by dinner time.,dialect,137.67518615722656,4.932134408339723
+11,11c,Fill in the blank (Choose all that apply).,I will had studied for 6 hours by dinner time.,false,276.0067138671875,5.624041743681288
+12,12d,Fill in the blank (Choose all that apply).,The people are angry.,true,48.60784912109375,3.9041490696200714
+12,12c,Fill in the blank (Choose all that apply).,The people were angry.,dialect,75.06451416015625,4.331581850727879
+12,12a,Fill in the blank (Choose all that apply).,The people is angry.,false,218.14271545410156,5.38972318631282
+12,12b,Fill in the blank (Choose all that apply).,The people be angry.,false,357.0263366699219,5.880606549811946
+13,13a,Fill in the blank (Choose all that apply).,The man that arrived yesterday needs a wakeup call at nine.,dialect,187.61744689941406,5.23972087334082
+13,13c,Fill in the blank (Choose all that apply).,The man which arrived yesterday needs a wakeup call at nine.,false,253.1450653076172,5.537905227248054
+13,13d,Fill in the blank (Choose all that apply).,The man where arrived yesterday needs a wakeup call at nine.,false,332.4051513671875,5.809358421208688
+13,13b,Fill in the blank (Choose all that apply).,The man whom arrived yesterday needs a wakeup call at nine.,dialect,334.62841796875,5.816004649103267
+14,14a,Fill in the blank (Choose all that apply).,"We won the game, so we did!",dialect,47.27044677734375,3.8768195054270342
+14,14b,Fill in the blank (Choose all that apply).,"We won the game, yes we did!",dialect,47.93129348754883,3.8904171404216568
+14,14c,Fill in the blank (Choose all that apply).,"We won the game, no we did!",false,97.19184875488281,4.586923205345763
+14,14d,Fill in the blank (Choose all that apply).,"We won the game, although we did!",false,112.28333282470703,4.729892050634677
+15,15c,Fill in the blank (Choose all that apply).,I study medicine.,true,297.45257568359375,5.6986110447787715
+15,15a,Fill in the blank (Choose all that apply).,I studies medicine.,false,436.8997802734375,6.0819900720338484
+15,15d,Fill in the blank (Choose all that apply).,I read medicine.,dialect,2158.13671875,7.6774637535446
+15,15b,Fill in the blank (Choose all that apply).,I reads medicine.,false,2729.951904296875,7.912405510295881
+16,16a,Fill in the blank (Choose all that apply).,"He broke his leg, so he is in the hospital.",dialect,15.259257316589355,2.788662427589998
+16,16b,Fill in the blank (Choose all that apply).,"He broke his leg, so he is in hospital.",dialect,22.391767501831055,3.152384144300765
+16,16d,Fill in the blank (Choose all that apply).,"He broke his leg, so he is on the hospital.",false,26.25069808959961,3.3050791387480767
+16,16c,Fill in the blank (Choose all that apply).,"He broke his leg, so he is on hospital.",false,46.797218322753906,3.8669674437194224
+17,17d,Fill in the blank (Choose all that apply).,"I told Sally I was worried about the exam. She said, 'Don't worry. It'll be okay!'",true,19.92639923095703,3.041011483002857
+17,17a,Fill in the blank (Choose all that apply).,"I told Sally I was worried about the exam. She said, 'Don't worry. He'll be right!'",false,25.112579345703125,3.2624171654880483
+17,17b,Fill in the blank (Choose all that apply).,"I told Sally I was worried about the exam. She said, 'Don't worry. She'll be right!'",dialect,25.869720458984375,3.291000019111593
+17,17c,Fill in the blank (Choose all that apply).,"I told Sally I was worried about the exam. She said, 'Don't worry. It be okay!'",false,33.57505798339844,3.5431325545819083
+18,18c,Fill in the blank (Choose all that apply).,"If he had known, he would have helped her.",true,14.126254081726074,2.7164319149739744
+18,18a,Fill in the blank (Choose all that apply).,"If he knew, he would have helped her.",dialect,18.251548767089844,2.957591512930667
+18,18b,Fill in the blank (Choose all that apply).,"If he had been knowing, he would have helped her.",false,25.888452529907227,3.291696920462197
+18,18d,Fill in the blank (Choose all that apply).,"If he have known, he would have helped her.",false,36.93339157104492,3.635831768287747
+19,19a,Fill in the blank (Choose all that apply).,My brother and sister are playing tennis at 11pm later tonight.,true,84.85777282714844,4.452692122874006
+19,19c,Fill in the blank (Choose all that apply).,My brother and sister were playing tennis at 11pm later tonight.,false,105.64629364013672,4.669517691759671
+19,19b,Fill in the blank (Choose all that apply).,My brother and sister will playing tennis at 11pm later tonight.,false,140.1820831298828,4.950050426992928
+19,19d,Fill in the blank (Choose all that apply).,My brother and sister was playing tennis at 11pm later tonight.,false,152.02651977539062,5.030611238237501
+20,20d,Fill in the blank (Choose all that apply).,I told the story.,true,58.7996711730957,4.0910001621638035
+20,20a,Fill in the blank (Choose all that apply).,I said the story.,false,121.98741149902344,4.812082004598361
+20,20b,Fill in the blank (Choose all that apply).,I replied the story.,false,444.0347900390625,6.0981524589734155
+20,20c,Fill in the blank (Choose all that apply).,I declared the story.,false,527.0406494140625,6.269173268269507
+21,21b,Fill in the blank (Choose all that apply).,My grandmother really loved John. She left all her money to him.,true,45.991172790527344,3.8499597711034914
+21,21c,Fill in the blank (Choose all that apply).,My grandmother really loved John. She left all her money to her.,false,63.587486267089844,4.1680206809883895
+21,21d,Fill in the blank (Choose all that apply).,My grandmother really loved John. She left all her money to it.,false,69.28780364990234,4.252598293721418
+21,21a,Fill in the blank (Choose all that apply).,My grandmother really loved John. She left all her money to he.,false,84.86922454833984,4.452825494113046
+22,22a,Fill in the blank (Choose all that apply).,"They may be traveling, but I'm not sure.",true,21.38857078552246,3.108550595858774
+22,22c,Fill in the blank (Choose all that apply).,"They would be traveling, but I'm not sure.",false,23.170761108398438,3.1851436840168033
+22,22b,Fill in the blank (Choose all that apply).,"They can be traveling, but I'm not sure.",false,29.01862335205078,3.4018179674606412
+22,22d,Fill in the blank (Choose all that apply).,"They have be traveling, but I'm not sure.",false,50.676292419433594,3.944999115790799
+23,23a,Fill in the blank (Choose all that apply).,John gave the library the book.,dialect,153.6104736328125,5.040908880513294
+23,23b,Fill in the blank (Choose all that apply).,John donated the library the book.,dialect,257.1182861328125,5.553417953237802
+23,23c,Fill in the blank (Choose all that apply).,John distributed the library the book.,false,454.57171630859375,6.121553149550706
+23,23d,Fill in the blank (Choose all that apply).,John contributed the library the book.,false,576.7486572265625,6.359138925009102
+24,24d,Fill in the blank (Choose all that apply).,Sally tickled Mary.,true,1244.387939453125,7.127202358316565
+24,24c,Fill in the blank (Choose all that apply).,Sally giggled Mary.,false,1773.940185546875,7.481522003058266
+24,24a,Fill in the blank (Choose all that apply).,Sally laughed Mary.,false,5711.201171875,8.650359722565032
+24,24b,Fill in the blank (Choose all that apply).,Sally happied Mary.,false,10834.0078125,9.290537635013116
+25,25d,Fill in the blank (Choose all that apply).,President Obama lives in the White House.,true,25.635509490966797,3.2822452688125114
+25,25c,Fill in the blank (Choose all that apply).,These President Obama lives in the White House.,false,34.90298080444336,3.580820322811809
+25,25a,Fill in the blank (Choose all that apply).,A President Obama lives in the White House.,false,40.158843994140625,3.717438824909161
+25,25b,Fill in the blank (Choose all that apply).,The President Obama lives in the White House.,false,44.595298767089844,3.8198046139925155
+26,26a,Fill in the blank (Choose all that apply).,The sun is in the sky.,true,22.608591079711914,3.1616106745905084
+26,26b,Fill in the blank (Choose all that apply).,The sun is in a sky.,false,129.82737731933594,4.873878723844254
+26,26d,Fill in the blank (Choose all that apply).,The sun is in sky.,false,231.77574157714844,5.450075507580489
+26,26c,Fill in the blank (Choose all that apply).,The sun is in an sky.,false,386.2778015136719,5.9591422688793
+27,27b,Fill in the blank (Choose all that apply).,I believe in justice.,true,70.0282974243164,4.263078352911322
+27,27d,Fill in the blank (Choose all that apply).,I believe in the justice.,false,116.01221466064453,4.762278328157508
+27,27c,Fill in the blank (Choose all that apply).,I believe in a justice.,false,219.12841796875,5.394211094095026
+27,27a,Fill in the blank (Choose all that apply).,I believe in these justice.,false,313.21612548828125,5.750081046873387
+28,28d,Fill in the blank (Choose all that apply).,Sorry to disturb you on the weekend.,dialect,67.62745666503906,4.228692697586602
+28,28c,Fill in the blank (Choose all that apply).,Sorry to disturb you at the weekend.,dialect,79.71923828125,4.390976939445452
+28,28a,Fill in the blank (Choose all that apply).,Sorry to disturb you with the weekend.,false,112.59752655029297,4.732661732725123
+28,28b,Fill in the blank (Choose all that apply).,Sorry to disturb you under the weekend.,false,214.86611938476562,5.374658397854666
+29,29c,Fill in the blank (Choose all that apply).,I would rather go home.,true,49.520416259765625,3.922377536952812
+29,29a,Fill in the blank (Choose all that apply).,I would like go home.,false,89.50591278076172,4.505415183165721
+29,29d,Fill in the blank (Choose all that apply).,I would want go home.,false,211.7018280029297,5.359891316447257
+29,29b,Fill in the blank (Choose all that apply).,I would prefer go home.,false,232.6502685546875,5.45382541853455
+30,30b,Fill in the blank (Choose all that apply).,Bill filled the cup with wine.,true,94.41053771972656,4.558189030632231
+30,30d,Fill in the blank (Choose all that apply).,Bill dripped the cup with wine.,false,165.06541442871094,5.11238177355774
+30,30a,Fill in the blank (Choose all that apply).,Bill poured the cup with wine.,false,178.37200927734375,5.189461913356596
+30,30c,Fill in the blank (Choose all that apply).,Bill drained the cup with wine.,false,215.06918334960938,5.37559864968645
+31,31c,Fill in the blank (Choose all that apply).,I play on the soccer team.,dialect,76.28653717041016,4.347519777041087
+31,31b,Fill in the blank (Choose all that apply).,I play in the soccer team.,dialect,86.17259979248047,4.467890058973383
+31,31a,Fill in the blank (Choose all that apply).,I play at the soccer team.,false,136.60496520996094,4.924387009222934
+31,31d,Fill in the blank (Choose all that apply).,I play inside the soccer team.,false,273.5806884765625,5.615245164846906
+32,32h,Choose all that are grammatical.,He thought he could win the game.,true,19.971149444580078,3.043147657173177
+32,32e,Choose all that are grammatical.,The government was unable to agree on the budget.,true,24.648326873779297,3.2444783403968436
+32,32d,Choose all that are grammatical.,I'm just after telling you.,dialect,123.04939270019531,4.8206798145207905
+32,32b,Choose all that are grammatical.,Sally appealed against the decision.,dialect,130.82977294921875,4.881511491468606
+32,32c,Choose all that are grammatical.,I'll write my brother.,dialect,332.93145751953125,5.810935754909417
+32,32g,Choose all that are grammatical.,Who did Sue ask why Sam was waiting?,dialect,371.6650695800781,5.920680079474455
+32,32a,Choose all that are grammatical.,John agreed the contract.,dialect,378.76641845703125,5.939556375451172
+32,32f,Choose all that are grammatical.,I after ate dinner.,false,840.1865844726562,6.734813495618463
+33,33d,Choose all that are grammatical.,He said that she was taking a trip.,true,40.8592643737793,3.734313143375127
+33,33f,Choose all that are grammatical.,I'm going to Wisconsin next week.,true,53.43680191040039,3.9970404308409524
+33,33c,Choose all that are grammatical.,He said that she is taking a trip.,dialect,58.521968841552734,4.08634546863287
+33,33g,Choose all that are grammatical.,He encouraged her to travels around the world.,false,73.72557067871094,4.313822345192842
+33,33a,Choose all that are grammatical.,The committee were divided on the question.,dialect,80.36759185791016,4.398977059308234
+33,33e,Choose all that are grammatical.,Sally swam two miles. Wore a pair of 100 goggles.,false,209.10597229003906,5.3476120333871595
+33,33b,Choose all that are grammatical.,She resigned Thursday.,dialect,518.4348754882812,6.252741442697003
+33,33h,Choose all that are grammatical.,I'm wanting dessert.,dialect,1403.3597412109375,7.247336777699214
+34,34d,Choose all that are grammatical.,John went to the store. Bought ice cream.,false,53.69667053222656,4.001802839791624
+34,34a,Choose all that are grammatical.,I worked for five years.,true,56.61537551879883,4.053789468171003
+34,34f,Choose all that are grammatical.,I'm finished with my homework.,true,59.751380920410156,4.106789813162475
+34,34b,Choose all that are grammatical.,Who did Bill ask why Jane was talking to?,false,174.186767578125,5.165852648127826
+34,34e,Choose all that are grammatical.,I'm finished my homework.,dialect,229.04368591308594,5.438269229639662
+34,34g,Choose all that are grammatical.,We did go the beach.,dialect,270.42315673828125,5.6036790670412735
+34,34h,Choose all that are grammatical.,He be working Tuesdays.,false,295.5941162109375,5.692364592052372
+34,34c,Choose all that are grammatical.,Who whom kissed?,false,15701.677734375,9.66158653312294
+35,35d,Choose all that are grammatical.,He was pulled over by the police for driving 120 miles per hour.,true,12.938404083251953,2.6346479140763486
+35,35h,Choose all that are grammatical.,Where is the pen that I gave it to you yesterday?,false,34.16411590576172,3.560026128131882
+35,35a,Choose all that are grammatical.,"Yesterday, John wanted to won the race.",false,115.89974975585938,4.761316727807292
+35,35b,Choose all that are grammatical.,"Up the audience's expectations, the critics built.",false,158.95916748046875,5.074918579416867
+35,35f,Choose all that are grammatical.,The dog the man owns barked.,dialect,338.2764587402344,5.826815287538869
+35,35c,Choose all that are grammatical.,I'm done dinner.,dialect,519.6044921875,6.254990621388968
+35,35e,Choose all that are grammatical.,He stay working.,false,1418.248291015625,7.257882637903995
+35,35g,Choose all that are grammatical.,I eats dinner.,false,1513.5406494140625,7.32286747026165
+9,9,Which of the following sentences sounds most natural?,I won't be coming to the party after all.,true,21.591402053833008,3.117569393796663
+9,9,Which of the following sentences sounds most natural?,I shan't be coming to the party after all.,dialect,26.174596786499023,3.3022825952338644
